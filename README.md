@@ -16,5 +16,6 @@
  ## CONTACT ME 
   <p align="center">
 <a href="https://www.instagram.com/_secret_annexe_/"><img src="https://user-images.githubusercontent.com/124377027/236632952-15974926-adbc-4e2e-a8b6-a6a35b1533fe.png"/></a>
+<a href="https://www.linkedin.com/in/syno-susan-594b2b240/"><img src="https://user-images.githubusercontent.com/124377027/236633245-c92e5302-c577-4100-8aca-584e14f410e6.png)"/></a>  
   
   
