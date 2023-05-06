@@ -9,7 +9,8 @@
 
 
 ## Hello Guys 😄 I'm SYNO SUSAN KURIAN 
-  I'm currently pursuing my Btech in Electronics and Communication .  A passionate newbie developer who likes to study and explore new technologies😎🤩 
+                                            I'm currently pursuing my Btech in Electronics and Communication .  
+                                     A passionate newbie developer who likes to study and explore new technologies😎🤩 
   
  
  
