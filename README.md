@@ -9,8 +9,10 @@
 
 
 ## Hello Guys 😄 I'm SYNO SUSAN KURIAN 
-                                            I'm currently pursuing my Btech in Electronics and Communication .  
-                                     A passionate newbie developer who likes to study and explore new technologies😎🤩 
+                                            Embedded Software Engineer powering the future of mobility ⚡
+                               Associate Embedded Engineer in the EV space, turning hardware into intelligent systems.
+                                            Driven by innovation, efficiency, and sustainable technology.
+                                      Exploring the intersection of firmware, automotive tech, and electrification.
   
  
  
