@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="500" src="App design.gif">
+  <img width="1000" height="500" src="https://user-images.githubusercontent.com/124377027/236632552-4f6257ab-c681-473b-a6a0-72ae240f5af8.gif">
 </p>
 
 
